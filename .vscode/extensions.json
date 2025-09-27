@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        "github.copilot",
+        "github.copilot-chat",
+        "vscjava.vscode-java-pack",
+        "redhat.java",
+        "vscjava.vscode-java-dependency",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-maven",
+        "vscjava.vscode-java-debug",
+        "ms-vscode.vscode-json",
+        "ms-vscode.remote-repositories"
+    ]
+}
